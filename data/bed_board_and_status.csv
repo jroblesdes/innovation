@@ -1,0 +1,269 @@
+full_dept_name,colloquial_name,room_number,bed_identifier,bed_status,patient_sex,needs_isolation
+USC-2E Medical/Surgical,2E,2301,A,A,,
+USC-2E Medical/Surgical,2E,2301,B,Oc,Male,Yes
+USC-2E Medical/Surgical,2E,2302,A,Oc,Male,Yes
+USC-2E Medical/Surgical,2E,2302,B,Oc,Female,No
+USC-2E Medical/Surgical,2E,2303,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2304,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2305,A,Oc,Female,Yes
+USC-2E Medical/Surgical,2E,2306,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2307,A,Oc,Female,No
+USC-2E Medical/Surgical,2E,2308,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2309,A,Oc,Female,No
+USC-2E Medical/Surgical,2E,2310,A,Oc,Female,No
+USC-2E Medical/Surgical,2E,2311,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2312,A,Oc,Female,Yes
+USC-2E Medical/Surgical,2E,2313,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2314,A,Oc,Male,No
+USC-2E Medical/Surgical,2E,2315,A,A,,
+USC-2E Medical/Surgical,2E,2315,B,Oc,Female,Yes
+USC-2W Medical/Surgical,2W,2316,A,Oc,Unknown,No
+USC-2W Medical/Surgical,2W,2317,A,Oc,Male,No
+USC-2W Medical/Surgical,2W,2318,A,Oc,Male,Yes
+USC-2W Medical/Surgical,2W,2319,A,Oc,Female,No
+USC-2W Medical/Surgical,2W,2320,A,Oc,Male,No
+USC-2W Medical/Surgical,2W,2321,A,Oc,Female,No
+USC-2W Medical/Surgical,2W,2322,A,Oc,Female,No
+USC-MI Medical ICU,4S,4101,A,Oc,Male,No
+USC-MI Medical ICU,4S,4102,A,B,,
+USC-MI Medical ICU,4S,4103,A,Oc,Female,No
+USC-MI Medical ICU,4S,4104,A,Oc,Male,No
+USC-MI Medical ICU,4S,4105,A,A,,
+USC-MI Medical ICU,4S,4106,A,A,,
+USC-MI Medical ICU,4S,4107,A,A,,
+USC-MI Medical ICU,4S,4108,A,A,,
+USC-5I CCU/ICU Combined,5I,5106,A,Oc,Male,No
+USC-5I CCU/ICU Combined,5I,5107,A,Oc,Male,No
+USC-5I CCU/ICU Combined,5I,5108,A,A,,
+USC-5I CCU/ICU Combined,5I,5109,A,Oc,Female,No
+USC-5I CCU/ICU Combined,5I,5110,A,Oc,Male,No
+USC-5I CCU/ICU Combined,5I,5111,A,Oc,Male,No
+USC-5I CCU/ICU Combined,5I,5112,A,Oc,Female,No
+USC-5I CCU/ICU Combined,5I,5113,A,Oc,Female,No
+USC-5N Defin Obser,5N,5201,A,Oc,Male,Yes
+USC-5N Defin Obser,5N,5201,B,Oc,Male,No
+USC-5N Defin Obser,5N,5202,A,Oc,Male,No
+USC-5N Defin Obser,5N,5202,B,Oc,Female,No
+USC-5N Defin Obser,5N,5203,A,Oc,Male,No
+USC-5N Defin Obser,5N,5203,B,Oc,Male,No
+USC-5N Defin Obser,5N,5204,A,Oc,Male,No
+USC-5N Defin Obser,5N,5204,B,Oc,Male,No
+USC-5N Defin Obser,5N,5205,A,Oc,Male,No
+USC-5N Defin Obser,5N,5206,A,Oc,Female,No
+USC-5N Defin Obser,5N,5207,A,Oc,Female,No
+USC-5N Defin Obser,5N,5208,A,Oc,Female,No
+USC-5N Defin Obser,5N,5209,A,Oc,Female,No
+USC-5N Defin Obser,5N,5210,A,Oc,Female,No
+USC-5N Defin Obser,5N,5211,A,Oc,Male,No
+USC-5N Defin Obser,5N,5211,B,Oc,Female,No
+USC-5N Defin Obser,5N,5212,A,Oc,Male,No
+USC-5N Defin Obser,5N,5213,A,D,,
+USC-5N Defin Obser,5N,5214,A,Oc,Male,No
+USC-5N Defin Obser,5N,5215,A,Oc,Male,No
+USC-5N Defin Obser,5N,5216,A,D,,
+USC-5N Defin Obser,5N,5217,A,Oc,Male,No
+USC-5N Defin Obser,5N,5218,A,Oc,Female,No
+USC-5N Defin Obser,5N,5219,A,Oc,Female,No
+USC-5N Defin Obser,5N,5219,B,A,,
+USC-5N Defin Obser,5N,5220,A,D,,
+USC-5N Defin Obser,5N,5220,B,A,,
+USC-5N Defin Obser,5N,5221,A,Oc,Female,No
+USC-5N Defin Obser,5N,5222,A,Oc,Male,No
+USC-5N Defin Obser,5N,5223,A,Oc,Male,No
+USC-5N Defin Obser,5N,5224,A,D,,
+USC-5N Defin Obser,5N,5225,A,A,,
+USC-5N Defin Obser,5N,5226,A,Oc,Female,No
+USC-5N Defin Obser,5N,5227,A,Oc,Female,No
+USC-5E DOU,5E,5301,A,B,,
+USC-5E DOU,5E,5302,A,Oc,Male,No
+USC-5E DOU,5E,5303,A,Oc,Male,Yes
+USC-5E DOU,5E,5304,A,Oc,Female,No
+USC-5E DOU,5E,5305,A,Oc,Female,No
+USC-5E DOU,5E,5306,A,Oc,Male,No
+USC-5E DOU,5E,5307,A,Oc,Male,No
+USC-5E DOU,5E,5308,A,A,,
+USC-5E DOU,5E,5309,A,Oc,Female,Yes
+USC-5E DOU,5E,5310,A,Oc,Male,No
+USC-5E DOU,5E,5311,A,Oc,Male,No
+USC-5E DOU,5E,5312,A,Oc,Female,No
+USC-5E DOU,5E,5313,A,Oc,Female,No
+USC-5E DOU,5E,5314,A,A,,
+USC-5W ICU,5W,5315,A,Oc,Female,No
+USC-5W ICU,5W,5316,A,Oc,Female,No
+USC-5W ICU,5W,5317,A,Oc,Male,No
+USC-5W ICU,5W,5318,A,Oc,Female,Yes
+USC-5W ICU,5W,5319,A,Oc,Female,No
+USC-5W ICU,5W,5320,A,Oc,Male,No
+USC-5W ICU,5W,5321,A,Oc,Female,No
+USC-5W ICU,5W,5322,A,Oc,Male,No
+USC-5W ICU,5W,5323,A,Oc,Male,No
+USC-5W ICU,5W,5324,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6201,A,A,,
+USC-6N Med/Surg Acute,6N,6201,B,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6202,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6202,B,D,,
+USC-6N Med/Surg Acute,6N,6203,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6203,B,A,,
+USC-6N Med/Surg Acute,6N,6204,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6204,B,Oc,Male,Yes
+USC-6N Med/Surg Acute,6N,6205,A,D,,
+USC-6N Med/Surg Acute,6N,6206,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6207,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6208,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6209,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6210,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6211,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6211,B,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6212,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6213,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6214,A,A,,
+USC-6N Med/Surg Acute,6N,6215,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6216,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6217,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6218,A,A,,
+USC-6N Med/Surg Acute,6N,6219,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6219,B,A,,
+USC-6N Med/Surg Acute,6N,6220,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6220,B,A,,
+USC-6N Med/Surg Acute,6N,6221,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6222,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6223,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6224,A,Oc,Male,No
+USC-6N Med/Surg Acute,6N,6225,A,Oc,Female,No
+USC-6N Med/Surg Acute,6N,6226,A,OOS,,
+USC-6N Med/Surg Acute,6N,6227,A,Oc,Male,No
+USC-6E Medical/Surgical,6E,6301,A,Oc,Male,No
+USC-6E Medical/Surgical,6E,6301,B,Oc,Female,No
+USC-6E Medical/Surgical,6E,6302,A,A,,
+USC-6E Medical/Surgical,6E,6302,B,Oc,Female,No
+USC-6E Medical/Surgical,6E,6303,A,Oc,Male,No
+USC-6E Medical/Surgical,6E,6304,A,Oc,Female,No
+USC-6E Medical/Surgical,6E,6305,A,Oc,Female,No
+USC-6E Medical/Surgical,6E,6306,A,D,,
+USC-6E Medical/Surgical,6E,6307,A,Oc,Female,No
+USC-6E Medical/Surgical,6E,6308,A,A,,
+USC-6E Medical/Surgical,6E,6309,A,Oc,Female,No
+USC-6E Medical/Surgical,6E,6310,A,Oc,Female,No
+USC-6E Medical/Surgical,6E,6311,A,Oc,Male,No
+USC-6E Medical/Surgical,6E,6312,A,A,,
+USC-6E Medical/Surgical,6E,6313,A,A,,
+USC-6E Medical/Surgical,6E,6314,A,A,,
+USC-6E Medical/Surgical,6E,6315,A,A,,
+USC-6E Medical/Surgical,6E,6316,A,A,,
+USC-6E Medical/Surgical,6E,6317,A,A,,
+USC-6W Medical/Surgical,6W,6318,A,Oc,Female,No
+USC-6W Medical/Surgical,6W,6319,A,Oc,Female,No
+USC-6W Medical/Surgical,6W,6320,A,Oc,Male,No
+USC-6W Medical/Surgical,6W,6321,A,Oc,Male,No
+USC-6W Medical/Surgical,6W,6322,A,Oc,Female,No
+USC-6W Medical/Surgical,6W,6323,A,Oc,Female,No
+USC-6W Medical/Surgical,6W,6324,A,A,,
+USC-6W Medical/Surgical,6W,6325,A,Oc,Female,No
+USC-6W Medical/Surgical,6W,6326,A,Oc,Female,No
+USC-SI Surgical ICU,7S,7101,A,Oc,Female,No
+USC-SI Surgical ICU,7S,7102,A,Oc,Female,No
+USC-SI Surgical ICU,7S,7103,A,A,,
+USC-SI Surgical ICU,7S,7104,A,Oc,Male,No
+USC-SI Surgical ICU,7S,7105,A,Oc,Female,No
+USC-SI Surgical ICU,7S,7106,A,Oc,Male,No
+USC-SI Surgical ICU,7S,7107,A,A,,
+USC-SI Surgical ICU,7S,7107,B,A,,
+USC-SI Surgical ICU,7S,7107,C,A,,
+USC-SI Surgical ICU,7S,7108,A,A,,
+USC-SI Surgical ICU,7S,7108,B,A,,
+USC-SI Surgical ICU,7S,7108,C,Oc,Female,No
+USC-SI Surgical ICU,7S,7109,A,A,,
+USC-SI Surgical ICU,7S,7110,A,A,,
+USC-SI Surgical ICU,7S,7111,A,A,,
+USC-SI Surgical ICU,7S,7112,A,A,,
+USC-SI Surgical ICU,7S,7113,A,A,,
+USC-SI Surgical ICU,7S,7114,A,A,,
+USC-7N Med/Surg Acute,7N,7201,A,A,,
+USC-7N Med/Surg Acute,7N,7201,B,A,,
+USC-7N Med/Surg Acute,7N,7202,A,A,,
+USC-7N Med/Surg Acute,7N,7202,B,Oc,Male,No
+USC-7N Med/Surg Acute,7N,7203,A,D,,
+USC-7N Med/Surg Acute,7N,7203,B,A,,
+USC-7N Med/Surg Acute,7N,7204,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7204,B,A,,
+USC-7N Med/Surg Acute,7N,7205,A,Oc,Male,No
+USC-7N Med/Surg Acute,7N,7206,A,A,,
+USC-7N Med/Surg Acute,7N,7207,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7208,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7209,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7210,A,Oc,Male,No
+USC-7N Med/Surg Acute,7N,7211,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7211,B,A,,
+USC-7N Med/Surg Acute,7N,7212,A,D,,
+USC-7N Med/Surg Acute,7N,7213,A,A,,
+USC-7N Med/Surg Acute,7N,7214,A,A,,
+USC-7N Med/Surg Acute,7N,7215,A,A,,
+USC-7N Med/Surg Acute,7N,7216,A,A,,
+USC-7N Med/Surg Acute,7N,7217,A,Oc,Female,No
+USC-7N Med/Surg Acute,7N,7218,A,A,,
+USC-7N Med/Surg Acute,7N,7219,A,A,,
+USC-7N Med/Surg Acute,7N,7219,B,A,,
+USC-7N Med/Surg Acute,7N,7220,A,A,,
+USC-7N Med/Surg Acute,7N,7220,B,A,,
+USC-7N Med/Surg Acute,7N,7221,A,A,,
+USC-7N Med/Surg Acute,7N,7222,A,A,,
+USC-7N Med/Surg Acute,7N,7223,A,A,,
+USC-7N Med/Surg Acute,7N,7224,A,A,,
+USC-7N Med/Surg Acute,7N,7225,A,A,,
+USC-7N Med/Surg Acute,7N,7226,A,A,,
+USC-7N Med/Surg Acute,7N,7227,A,A,,
+USC-7E ICU,7E,7301,A,Oc,Female,No
+USC-7E ICU,7E,7302,A,Oc,Male,No
+USC-7E ICU,7E,7303,A,D,,
+USC-7E ICU,7E,7304,A,A,,
+USC-7E ICU,7E,7305,A,Oc,Male,No
+USC-7E ICU,7E,7306,A,A,,
+USC-7E ICU,7E,7307,A,Oc,Female,No
+USC-7E ICU,7E,7308,A,A,,
+USC-7E ICU,7E,7309,A,A,,
+USC-7E ICU,7E,7310,A,Oc,Female,No
+USC-7W ICU,7W,7311,A,Oc,Male,No
+USC-7W ICU,7W,7312,A,A,,
+USC-7W ICU,7W,7313,A,Oc,Male,No
+USC-7W ICU,7W,7314,A,Oc,Female,No
+USC-7W ICU,7W,7315,A,A,,
+USC-7W ICU,7W,7316,A,A,,
+USC-7W ICU,7W,7317,A,D,,
+USC-7W ICU,7W,7318,A,A,,
+USC-7W ICU,7W,7319,A,A,,
+USC-7W ICU,7W,7320,A,A,,
+USC-8W ICU,8W,8315,A,Oc,Female,No
+USC-8W ICU,8W,8316,A,Oc,Female,No
+USC-8W ICU,8W,8317,A,D,,
+USC-8W ICU,8W,8318,A,Oc,Male,No
+USC-8W ICU,8W,8319,A,Oc,Male,No
+USC-8W ICU,8W,8320,A,D,,
+USC-8W ICU,8W,8321,A,D,,
+USC-8W ICU,8W,8322,A,D,,
+USC-8W ICU,8W,8323,A,Oc,Male,No
+USC-8W ICU,8W,8324,A,Oc,Female,No
+USC-9E Medical/Surgical,9E,9301,A,D,,
+USC-9E Medical/Surgical,9E,9301,B,Oc,Male,No
+USC-9E Medical/Surgical,9E,9302,A,Oc,Female,No
+USC-9E Medical/Surgical,9E,9303,A,A,,
+USC-9E Medical/Surgical,9E,9304,A,Oc,Female,No
+USC-9E Medical/Surgical,9E,9305,A,A,,
+USC-9E Medical/Surgical,9E,9306,A,A,,
+USC-9E Medical/Surgical,9E,9307,A,A,,
+USC-9E Medical/Surgical,9E,9308,A,A,,
+USC-9E Medical/Surgical,9E,9309,A,A,,
+USC-9E Medical/Surgical,9E,9310,A,A,,
+USC-9E Medical/Surgical,9E,9311,A,Oc,Female,No
+USC-9E Medical/Surgical,9E,9312,A,A,,
+USC-9E Medical/Surgical,9E,9313,A,Oc,Female,Yes
+USC-9W Medical/Surgical,9W,9314,A,Oc,Male,No
+USC-9W Medical/Surgical,9W,9314,B,A,,
+USC-9W Medical/Surgical,9W,9315,A,Oc,Female,No
+USC-9W Medical/Surgical,9W,9316,A,A,,
+USC-9W Medical/Surgical,9W,9317,A,A,,
+USC-9W Medical/Surgical,9W,9318,A,A,,
+USC-9W Medical/Surgical,9W,9319,A,Oc,Female,No
+USC-9W Medical/Surgical,9W,9320,A,A,,
+USC-9W Medical/Surgical,9W,9321,A,A,,
+USC-9W Medical/Surgical,9W,9322,A,A,,
+USC-9W Medical/Surgical,9W,9323,A,Oc,Female,No
