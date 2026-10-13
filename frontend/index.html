@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bed Placement Review</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ===== Patient banner (PowerChart format) ===== -->
+  <div class="titlebar" id="titlebar">Bed Placement Review</div>
+  <header class="banner">
+    <div class="avatar" aria-hidden="true"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="4.2"/><path d="M3.5 22c0-4.7 3.8-8 8.5-8s8.5 3.3 8.5 8z"/></svg></div>
+
+    <div class="banner-main">
+      <div class="banner-row">
+        <span class="banner-name" id="b-name">Loading…</span>
+        <span id="b-age"></span>
+        <span id="b-gender"></span>
+        <span id="b-allergies"></span>
+        <span id="b-mrn"></span>
+      </div>
+      <div class="banner-row">
+        <span id="b-loc"></span>
+        <span class="b" id="b-iso"></span>
+        <span class="b" id="b-service"></span>
+        <span class="b" id="b-dept"></span>
+        <span id="b-fin"></span>
+      </div>
+      <div class="banner-row">
+        <span id="b-admit"></span>
+        <span id="b-attending"></span>
+        <span></span>
+        <span id="b-code"></span>
+        <span id="b-blood"></span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== Content ===== -->
+  <div class="workspace">
+
+    <div class="tabs">
+      <span class="tab active">Bed Placement Review</span>
+
+      <div class="worklist">
+        <label for="request-select">Transfer request</label>
+        <button class="nav-btn" id="prev-btn" title="Previous request" aria-label="Previous request">&#8249;</button>
+        <select id="request-select"></select>
+        <button class="nav-btn" id="next-btn" title="Next request" aria-label="Next request">&#8250;</button>
+        <span class="count-label" id="request-count"></span>
+      </div>
+
+      <a class="source-btn" id="source-btn" href="#" target="_blank" rel="noopener">
+        Open source order in PowerChart <span aria-hidden="true">&#8599;</span>
+      </a>
+    </div>
+
+    <div class="tab-body">
+      <div class="grid">
+
+        <!-- COLUMN 1: what the patient needs -->
+        <div class="col">
+          <section class="pane lead">
+            <h2 class="pane-head">Summary
+              <button class="link-btn" id="refresh-btn" title="Re-run the AI summary">&#8635; Refresh</button>
+            </h2>
+            <div class="pane-body fill center">
+              <p class="summary" id="summary-text">Loading…</p>
+              <p class="note" id="summary-source"></p>
+            </div>
+          </section>
+
+          <section class="pane grow">
+            <h2 class="pane-head">Care Needs <span class="head-note" id="needs-count"></span></h2>
+            <div class="pane-body fill">
+              <ul class="alerts" id="care-needs"></ul>
+            </div>
+          </section>
+        </div>
+
+        <!-- COLUMN 2: transfer + current condition -->
+        <div class="col">
+          <section class="pane lead">
+            <h2 class="pane-head">Current Clinical State</h2>
+            <div class="pane-body fill center">
+              <table class="vitals">
+                <thead>
+                  <tr>
+                    <th>HR</th><th>BP</th><th>RR</th><th>Temp</th>
+                    <th title="Oxygen saturation, arterial blood gas">O<sub>2</sub> Sat</th><th>Weight</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td id="v-heart_rate">–</td>
+                    <td id="v-blood_pressure">–</td>
+                    <td id="v-respiratory_rate">–</td>
+                    <td id="v-temperature">–</td>
+                    <td id="v-oxygen_saturation">–</td>
+                    <td id="v-weight">–</td>
+                  </tr>
+                </tbody>
+              </table>
+              <dl class="kv">
+                <div><dt>Level of care</dt><dd id="kv-loc">–</dd></div>
+                <div><dt>Drips</dt><dd id="kv-drips">–</dd></div>
+                <div><dt>Lines</dt><dd id="kv-lines">–</dd></div>
+                <div><dt>Tubes / Drains</dt><dd id="kv-tubes">–</dd></div>
+              </dl>
+            </div>
+          </section>
+
+          <section class="pane grow">
+            <h2 class="pane-head">Not Flagged <span class="head-note" id="notflagged-count"></span></h2>
+            <div class="pane-body fill">
+              <ul class="plain" id="not-flagged"></ul>
+            </div>
+          </section>
+        </div>
+
+        <!-- COLUMN 3: where they can go -->
+        <div class="col">
+          <section class="pane grow">
+            <h2 class="pane-head">Recommended Beds <span class="head-note" id="routing-note">best match first</span></h2>
+            <div class="pane-body fill flush">
+              <div id="bed-warnings"></div>
+              <ol class="beds" id="beds"></ol>
+              <div class="bed-footer" id="bed-footer"></div>
+            </div>
+          </section>
+
+          <div class="notice">
+            <span class="info-dot" aria-hidden="true">i</span>
+            Recommendations follow the RPRB rule set and bed board snapshot. Confirm live availability in CapMan before assigning.
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
