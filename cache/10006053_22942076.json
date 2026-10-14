@@ -1,0 +1,31 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Requires an ICU-capable bed for documented endotracheal intubation and mechanical ventilation, with hepatic encephalopathy, bleeding esophageal varices, and severe coagulopathy/defibrination syndrome. Latest findings include recurrent marked lactic acidosis, worsening acute kidney injury, anemia, and severe thrombocytopenia. Fall precautions are supported by encephalopathy and acute alcohol intoxication; no contact-isolation indication is documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "yes",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No supporting organism or explicit contact precaution; MRSA screen and supplied cultures are negative.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [
+      "Venous catheter (site and type unspecified)"
+    ],
+    "tubes": [
+      "Endotracheal tube"
+    ]
+  }
+}

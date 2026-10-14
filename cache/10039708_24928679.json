@@ -1,0 +1,27 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Current encounter involves alcoholic cirrhosis with ascites, bleeding esophageal varices treated endoscopically, and a hemorrhagic gastrojejunal ulcer; monitor for recurrent bleeding and anemia (latest hemoglobin 7.3 g/dL, platelets 82 K/uL). ESRD with dialysis dependence requires access to intermittent hemodialysis, performed September 21. Mechanical ventilation and central lines were documented only in prior encounters; no current respiratory devices, IV drips, or specific vascular access are supported.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No organism or explicit precaution supporting contact isolation; remote nonspecific yeast cultures do not establish a current contact-isolation need.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": []
+  }
+}

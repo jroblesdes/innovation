@@ -1,0 +1,34 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Selected admission for perforated gastric/duodenal ulcers with severe malnutrition, requiring gastric drainage, duodenal tube feeding, and documented parenteral nutrition with central venous access. Placement considerations include cirrhosis with ascites, anemia/coagulopathy, hypoxemia/pulmonary edema, and atrial fibrillation/SVT; DNR and palliative-care status are documented. Prior intubation was in 2148, with no current invasive ventilation supported. No contact-isolation indication is present.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No contact-precaution organism or explicit precaution documented; current peritoneal cultures show no growth. Chronic hepatitis C alone does not support contact isolation.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [
+      "Parenteral nutrition (documented 2149-10-02; ongoing infusion status unspecified)"
+    ],
+    "lines": [
+      "Central venous infusion catheter terminating in the superior vena cava (placed 2149-10-03)"
+    ],
+    "tubes": [
+      "Percutaneous gastric drainage tube (placed 2149-10-16)",
+      "Endoscopically placed duodenal feeding tube (placed 2149-10-16)"
+    ]
+  }
+}

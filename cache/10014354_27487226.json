@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Admission for pneumonia and acute-on-chronic diastolic heart failure, complicated by cardiogenic shock and tamponade requiring pericardial drain placement on July 7; continued drain need requires confirmation. Latest labs show improved kidney function and potassium, with persistent anemia, mild hyponatremia, and improving transaminase elevations. Active CLL supports immunocompromised status, and diabetic polyneuropathy with prior dementia supports fall precautions. No invasive ventilation, contact-isolation indication, or bariatric-equipment requirement is documented; bariatric surgery is historical.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No organism or explicit precaution supporting contact isolation; supplied blood, urine, and pericardial fluid cultures show no growth.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "yes",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": [
+      "Pericardial drain placed July 7; removal not documented"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Postoperative encounter following rectocele repair with biological graft and neurostimulator generator insertion/replacement, with urinary retention and an anaphylactic reaction documented. Urine collected April 14 grew multidrug-resistant Citrobacter freundii complex; results finalized April 16 support contact precautions. No invasive respiratory support, active IV drips, vascular lines, or tubes are documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "yes",
+    "contact_isolation_reason": "April 14 urine culture, finalized April 16, grew Citrobacter freundii complex resistant to ceftriaxone/ceftazidime, gentamicin, and trimethoprim-sulfamethoxazole, supporting contact precautions for a multidrug-resistant organism. MRSA screen was negative.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": []
+  }
+}

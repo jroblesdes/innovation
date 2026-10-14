@@ -1,0 +1,27 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Encounter for acute hypoxic respiratory failure with aspiration pneumonitis and lung malignancy, requiring respiratory assessment for placement; invasive ventilation is not documented. Contact precautions are supported by a current MRSA infection diagnosis and Staphylococcus aureus in bronchial washings. Bronchial and esophageal intraluminal devices were placed for obstruction, with dysphagia relevant to care planning; no active vascular lines, continuous IV drips, or tubes/drains are documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "yes",
+    "contact_isolation_reason": "Current MRSA infection diagnosis, with Staphylococcus aureus isolated from bronchial washings.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": []
+  }
+}

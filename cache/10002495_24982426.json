@@ -1,0 +1,27 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "NSTEMI with cardiogenic shock and heart failure required coronary stenting and balloon-pump support documented on May 23; ongoing pump use is not confirmed. C. difficile enterocolitis supports enteric contact isolation, and disorientation supports fall precautions. Acute kidney injury improved by May 29, but hematuria/urethral injury and anticoagulant use remain relevant care concerns; no invasive ventilation or specific active drips, vascular lines, or tubes are documented.",
+    "balloon_pump": "yes",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "yes",
+    "contact_isolation_reason": "C. difficile detected by stool PCR during this encounter, with diagnosed C. difficile enterocolitis; supports enteric contact precautions.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": []
+  }
+}
