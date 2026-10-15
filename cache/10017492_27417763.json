@@ -1,0 +1,27 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "84-year-old man after fall-related hip fracture fixation on 6/27, with intracerebral hemorrhage/encephalopathy and pre-existing stroke-related hemiplegia, aphasia, and cognitive deficits; fall precautions and mobility assistance are supported. Latest findings include recurrent renal dysfunction (creatinine 2.0), lactate 4.0 mmol/L, and hypoxemia, warranting clinical reassessment of monitoring needs; he is explicitly documented as not intubated. No contact-isolation indication or active drips, vascular lines, or tubes are documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No supporting organism or explicit precaution: MRSA screen negative and urine culture showed mixed flora consistent with contamination.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": []
+  }
+}

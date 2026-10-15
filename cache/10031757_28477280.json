@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "67-year-old woman with metastatic intrahepatic bile duct cancer and palliative-care involvement; this admission included E. coli sepsis/septic shock, toxic encephalopathy, ileus, and hypoxemia requiring supplemental oxygen earlier in the stay. Fall precautions are supported by encephalopathy; no invasive ventilation is documented. A central venous catheter was placed on 10/24, with persistent leukocytosis and anemia on the latest labs; no contact-isolation indication is supported.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "Susceptible E. coli bacteremia/UTI, vancomycin-susceptible urinary Enterococcus, and urinary yeast do not establish a contact-precaution indication; MRSA, VRE, and C. difficile tests were negative.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [
+      "Central venous catheter placed with guidance on 10/24"
+    ],
+    "tubes": []
+  }
+}

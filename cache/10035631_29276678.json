@@ -1,0 +1,32 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Requires a ventilator-capable critical-care bed for acute hypoxic respiratory failure, with intubation documented through March 9. Active leukemia with prior stem-cell transplant/GVHD and profound neutropenia supports immunocompromised placement considerations; severe thrombocytopenia and tumor-lysis-associated acute kidney injury, treated with dialysis during this encounter, require close monitoring. DNR and palliative-care status are documented; no contact-isolation indication is supported.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "yes",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No contact-precaution organism or explicit precaution is documented; pulmonary aspergillosis and pneumocystosis do not ordinarily require contact isolation.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "yes",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "yes",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [
+      "Central venous access for antineoplastic administration (type unspecified)"
+    ],
+    "tubes": [
+      "Endotracheal tube",
+      "Enteral feeding tube (type unspecified)"
+    ]
+  }
+}

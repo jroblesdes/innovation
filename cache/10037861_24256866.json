@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "77-year-old man with acute-on-chronic systolic heart failure and acute kidney injury on CKD III, with atrial fibrillation and chronic anticoagulation. Placement should account for cardiac, renal, electrolyte, and bleeding monitoring; latest creatinine is 1.5 mg/dL, sodium 138 mEq/L, and platelets 171 K/uL. Oxygen at 3 L/min and central venous sampling were documented early in the admission, but ongoing oxygen and central access needs are not confirmed; no invasive ventilation or active IV drips are documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "Urine cultures grew broadly susceptible Pseudomonas aeruginosa; no multidrug resistance or explicit contact precautions are documented.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [
+      "Central venous access inferred from 10/09 central venous blood sampling; site and continued presence unconfirmed"
+    ],
+    "tubes": []
+  }
+}

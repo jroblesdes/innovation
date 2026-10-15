@@ -1,0 +1,31 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Requires an ICU-capable, ventilator-equipped bed based on acute respiratory failure with endotracheal intubation and invasive ventilation documented October 9\u201310; no subsequent extubation is documented. Current concerns include decompensated cirrhosis with ascites/SBP, acute kidney injury, persistent electrolyte abnormalities, severe coagulopathy and thrombocytopenia, and altered mental status supporting fall precautions. Central venous access is supported; DNR status and palliative-care involvement are documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "yes",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "yes",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No organism or explicit precaution supporting contact isolation; MRSA screen is negative, and nonspecific yeast in urine/sputum does not establish a contact-isolation indication.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [
+      "Central venous catheter"
+    ],
+    "tubes": [
+      "Endotracheal tube"
+    ]
+  }
+}

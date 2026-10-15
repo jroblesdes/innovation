@@ -1,0 +1,36 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "Admission for hepatic and peritoneal abscesses, acute pancreatitis, biliary obstruction, and ileus with malnutrition/failure to thrive. Bed planning should account for documented abdominal drainage, biliary/pancreatic stents, and enteral/parenteral nutritional support; continued device and infusion needs require confirmation. No invasive respiratory support or contact-isolation indication is documented.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "no",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "Peritoneal cultures grew mixed flora, Bacteroides fragilis group, and Clostridium perfringens, without a documented contact-precaution indication. MRSA and VRE screens were negative.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [
+      "Parenteral nutrition (documented March 8; continuation unspecified)"
+    ],
+    "lines": [
+      "Venous catheter (type/site unspecified; placed March 8)"
+    ],
+    "tubes": [
+      "Percutaneous abdominal drain (procedure March 12; continued presence unconfirmed)",
+      "Bile duct stent (placed March 4)",
+      "Pancreatic duct stent (placed March 4)",
+      "Enteral feeding access (type unspecified; enteral infusion documented March 4)"
+    ]
+  }
+}

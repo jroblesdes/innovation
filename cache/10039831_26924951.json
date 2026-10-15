@@ -1,0 +1,29 @@
+{
+  "model": "gpt-6.1-sol",
+  "result": {
+    "summary": "57-year-old woman underwent intra-abdominal lymph node excision for metastatic malignancy, complicated by vascular injury requiring patch-graft repair and arterial thrombosis. Intubation is documented on 12/28; ongoing ventilator need is not established by later records and requires confirmation for placement. Latest labs show anemia (hemoglobin 9.9 g/dL), INR 1.7, and improving liver enzyme elevations; no contact-isolation indication is supported.",
+    "balloon_pump": "no",
+    "ventilator_et_trach": "yes",
+    "bariatric": "no",
+    "weight_over_300_lbs": "no",
+    "fall_precautions": "no",
+    "contact_isolation": "no",
+    "contact_isolation_reason": "No supporting infection or colonization documented; MRSA screen was negative.",
+    "bloodless": "no",
+    "decubiti": "no",
+    "immunosuppressed": "no",
+    "lvad": "no",
+    "tracheostomy": "no",
+    "video_ekg": "no",
+    "bmt": "no",
+    "ecmo": "no",
+    "impella": "no",
+    "pregnant": "no",
+    "ventriculostomy": "no",
+    "drips": [],
+    "lines": [],
+    "tubes": [
+      "Endotracheal tube documented 12/28; ongoing presence unconfirmed"
+    ]
+  }
+}
